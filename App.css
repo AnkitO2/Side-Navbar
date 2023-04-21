@@ -1,0 +1,8 @@
+.mainnav{
+  width: 120px;
+  margin-left: 50px;
+}
+.active{
+  border-left: 2px solid #81c14b;
+}
+
